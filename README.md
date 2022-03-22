@@ -112,3 +112,5 @@ https://github.com/TingsongYu/PyTorch_Tutorial/blob/master/Data/PyTorch_tutorial
 
 https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/算法篇.pdf
 
+https://circlehbsaas.oss-cn-beijing.aliyuncs.com/doc/20211020637_AI%E5%9F%BA%E7%A1%80%E6%9E%B6%E6%9E%84%E5%85%B8%E8%97%8F%E7%89%88%E5%90%88%E9%9B%86.pdf
+
