@@ -46,4 +46,33 @@ https://github.com/hellonlp/classifier_multi_label.git
 
 https://github.com/qiangsiwei/bert_distill
 
+https://github.com/zhoujx4/NLP-Series-sentence-embeddings
+https://github.com/ZJJDJJ/chatbot_simbert.git
+
+
+https://github.com/YunwenTechnology/Unilm
+
+https://github.com/xianghuisun/ContrativeLearningInNLP
+
+https://github.com/HIT-SCIR/ltp
+
+https://github.com/thisiszhou/Transformer-Translate-Demo
+
+https://github.com/galsang/BiDAF-pytorch
+https://github.com/NTMC-Community/MatchZoo
+
+https://github.com/YunWGui/RecSys-Book-Notes
+
+
+## 3
+
+https://github.com/YinpeiDai/CMCC_DialogSystem.git
+
+https://github.com/jiangnanboy/intent_detection_and_slot_filling.git
+
+
+https://github.com/YinpeiDai/IqiyiProject.git
+
+https://github.com/ioriiod0/tiny_bot
+
 
