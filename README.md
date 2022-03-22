@@ -9,6 +9,7 @@ https://github.com/novak-99/MLPP.git
 
 https://github.com/koritafei/leetcode.git
 
+https://github.com/yanyiwu/cppjieba.git
 
 ## 2
 
@@ -63,6 +64,24 @@ https://github.com/NTMC-Community/MatchZoo
 
 https://github.com/YunWGui/RecSys-Book-Notes
 
+https://github.com/KwangKa/SIMCSE_unsup
+
+
+https://github.com/fighting41love/cocoNLP.git
+
+https://github.com/Kyubyong/transformer.git
+
+https://github.com/ShannonAI/Self_Explaining_Structures_Improve_NLP_Models.git
+
+https://github.com/basketballandlearn/MRC_Competition_Dureader.git
+
+https://github.com/lonePatient/BERT-NER-Pytorch.git
+
+
+https://github.com/benywon/ChineseBert.git
+
+https://github.com/920232796/bert_seq2seq.git
+
 
 ## 3
 
@@ -75,4 +94,11 @@ https://github.com/YinpeiDai/IqiyiProject.git
 
 https://github.com/ioriiod0/tiny_bot
 
+
+
+https://github.com/autoliuweijie/BERT-whitening-pytorch.git
+
+https://github.com/MaartenGr/BERTopic.git
+
+https://github.com/binnz/chinese-qa-with-bert.git
 
