@@ -107,3 +107,8 @@ https://github.com/binnz/chinese-qa-with-bert.git
 ## 4
 
 https://github.com/wwkenwong/book/blob/master/glibc%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86ptmalloc%E6%BA%90%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90.pdf
+
+https://github.com/TingsongYu/PyTorch_Tutorial/blob/master/Data/PyTorch_tutorial_0.0.4_%E4%BD%99%E9%9C%86%E5%B5%A9.pdf
+
+https://s3plus.meituan.net/v1/mss_e63d09aec75b41879dcb3069234793ac/file/算法篇.pdf
+
