@@ -122,6 +122,8 @@ https://github.com/search-opensource-space/VL-BERT
 https://github.com/alibaba/EasyTransfer/tree/master/scripts/fashion_bert
 
 
+https://github.com/fastnlp/CPT
+
 
 ## 6
 https://www.unicef.cn/media/6946/file/0%EF%BD%9E6%E5%B2%81%E5%84%BF%E7%AB%A5%E5%8F%91%E5%B1%95%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91.pdf 
